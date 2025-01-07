@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Feedly Unite Style
-// @namespace    http://tampermonkey.net/
-// @version      2025-01-03
-// @description  Userscript / Unite style for a more compact Feedly.com 
+// @namespace    http://feedly.com
+// @version      1.0.0
+// @description  Userscript / Unite style for a more compact Feedly.com
 // @author       Zaph
+// @updateURL    https://raw.githubusercontent.com/zapher/Feedly-Compact/refs/heads/main/feedly-compact.js?token=GHSAT0AAAAAAC46XUMYT4P2XMYIC7SE4NMYZ35SJOA
+// @downloadURL  https://raw.githubusercontent.com/zapher/Feedly-Compact/refs/heads/main/feedly-compact.js?token=GHSAT0AAAAAAC46XUMYT4P2XMYIC7SE4NMYZ35SJOA
 // @match        https://feedly.com/i/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=feedly.com
 // @grant        none
