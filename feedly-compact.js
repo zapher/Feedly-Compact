@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Feedly Unite Compact
 // @namespace    http://feedly.com
-// @version      1.0.1
+// @version      1.0.2
 // @description  Userscript / Unite style for a more compact Feedly.com
 // @author       Zaph
-// @updateURL    https://raw.githubusercontent.com/zapher/Feedly-Compact/main/feedly-compact.js
-// @downloadURL  https://raw.githubusercontent.com/zapher/Feedly-Compact/main/feedly-compact.js
+// @updateURL    https://raw.githubusercontent.com/zapher/Feedly-Compact/refs/heads/main/feedly-compact.js
+// @downloadURL  https://raw.githubusercontent.com/zapher/Feedly-Compact/refs/heads/main/feedly-compact.js
 // @match        https://feedly.com/i/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=feedly.com
 // @grant        none
