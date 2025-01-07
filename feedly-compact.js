@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Feedly Unite Compact
 // @namespace    http://feedly.com
-// @version      1.0.0
+// @version      1.0.1
 // @description  Userscript / Unite style for a more compact Feedly.com
 // @author       Zaph
 // @updateURL    https://raw.githubusercontent.com/zapher/Feedly-Compact/main/feedly-compact.js
@@ -166,6 +166,7 @@ header > div:first-child {
     display: inline-block;
     overflow:hidden;
     line-height:0!important;
+    transition: all 0.5s ease;
 }
 
 
