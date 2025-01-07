@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Feedly Unite Style
+// @name         Feedly Unite Compact
 // @namespace    http://feedly.com
 // @version      1.0.0
 // @description  Userscript / Unite style for a more compact Feedly.com
