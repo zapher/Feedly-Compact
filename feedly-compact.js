@@ -2,7 +2,7 @@
 // @name         Feedly Unite Style
 // @namespace    http://tampermonkey.net/
 // @version      2025-01-03
-// @description  Test space for Unite Feedly app styling
+// @description  Userscript / Unite style for a more compact Feedly.com 
 // @author       Zaph
 // @match        https://feedly.com/i/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=feedly.com
