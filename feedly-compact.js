@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Feedly Unite Compact
 // @namespace    http://feedly.com
-// @version      1.0.3
+// @version      1.0.4
 // @description  Userscript / Unite style for a more compact Feedly.com
 // @author       Zaph
 // @updateURL    https://raw.githubusercontent.com/zapher/Feedly-Compact/main/feedly-compact.js
