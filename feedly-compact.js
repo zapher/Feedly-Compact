@@ -214,4 +214,8 @@ button[title="Create Team Newsletter"] {
      padding-top: 100px;
 }
 
+.Header__right-column {
+     padding-top:0px!important;
+}
+
 ` );
